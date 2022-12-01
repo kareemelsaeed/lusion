@@ -1,0 +1,14 @@
+.purchase1{
+    background-image: url(../Photos/f1.png);
+    background-repeat: no-repeat;
+    height: 35rem;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.purchase2{
+    background-color: whitesmoke;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: 100;
+}   

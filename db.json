@@ -1,0 +1,176 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "name": "Hood",
+      "price": "90",
+      "image": "https://m.media-amazon.com/images/I/31u7WVpK0RL._AC_.jpg",
+      "QutAvl": "10",
+      "QutBuy": 0,
+      "id": 1
+    },
+    {
+      "name": "Shirt",
+      "price": "400",
+      "image": "https://wikimisr.com/wp-content/uploads/2021/03/256-9.jpg",
+      "QutAvl": 15,
+      "QutBuy": 0,
+      "id": 2
+    },
+    {
+      "name": "Shirt",
+      "image": "https://wikimisr.com/wp-content/uploads/2021/03/1-web-desktop-list-1.jpg",
+      "price": 300,
+      "QutBuy": 0,
+      "QutAvl": 13,
+      "id": 3
+    },
+    {
+      "name": "Shirt",
+      "image": "https://wikimisr.com/wp-content/uploads/2021/03/2422-7.jpg",
+      "price": 140,
+      "QutBuy": 0,
+      "QutAvl": 18,
+      "id": 4
+    },
+    {
+      "name": "Shirt",
+      "price": "180",
+      "image": "https://wikimisr.com/wp-content/uploads/2021/03/4037-1.jpg",
+      "QutAvl": 20,
+      "QutBuy": 0,
+      "id": 5
+    },
+    {
+      "name": "Jeans",
+      "image": "https://sc04.alicdn.com/kf/H75b558714be145c3b642a41233c74be3V.jpg",
+      "price": 230,
+      "QutBuy": 0,
+      "QutAvl": 4,
+      "id": 6
+    },
+    {
+      "name": "Jeans",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/415GkT-w%2BfL._AC_SY580_.jpg",
+      "price": 230,
+      "QutBuy": 0,
+      "QutAvl": 1,
+      "id": 7
+    },
+    {
+      "name": "Jeans",
+      "image": "https://www.arrajol.com/sites/default/files/users/user181506/men-s-loose-fit-jeans-in-anthracite%D8%AC%D9%8A%D9%86%D8%B2.jpg",
+      "price": 150,
+      "QutBuy": 0,
+      "QutAvl": 12,
+      "id": 8
+    },
+    {
+      "name": "Hood",
+      "image": "https://eg.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/03/758281/1.jpg?1850",
+      "price": 400,
+      "QutBuy": 0,
+      "QutAvl": 8,
+      "id": 9
+    },
+    {
+      "name": "Jaket",
+      "price": "200",
+      "image": "https://images.pexels.com/photos/157675/fashion-men-s-individuality-black-and-white-157675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "QutAvl": "30",
+      "QutBuy": 0,
+      "id": 10
+    },
+    {
+      "name": "jaket",
+      "price": "500",
+      "image": "https://images.pexels.com/photos/2887766/pexels-photo-2887766.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "QutAvl": "60",
+      "QutBuy": 0,
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "name": "kareem",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/542px-Unknown_person.jpg",
+      "age": 28,
+      "gender": "Male",
+      "userName": "Kareemfayez",
+      "password": "123456",
+      "email": "engkareemfayez@gmail.com",
+      "phone": "+01012998032",
+      "role": "Admin",
+      "id": 1
+    },
+    {
+      "name": "mona",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/542px-Unknown_person.jpg",
+      "age": "20",
+      "gender": "Female",
+      "userName": "mona-ahmed",
+      "password": "123456",
+      "email": "mona@gmail.com",
+      "phone": "+01022222222",
+      "role": "member",
+      "id": 2
+    },
+    {
+      "name": "azaa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/542px-Unknown_person.jpg",
+      "age": "15",
+      "gender": "Female",
+      "userName": "azaa-mohamed",
+      "password": "123456",
+      "email": "azaa-mohamed@gmail.com",
+      "phone": "+01022222222",
+      "role": "member",
+      "id": 3
+    },
+    {
+      "name": "mostafa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/542px-Unknown_person.jpg",
+      "age": "24",
+      "gender": "Male",
+      "userName": "Moustafa-ali",
+      "password": "123456",
+      "email": "Moustafa-ali@gmail.com",
+      "phone": "+01102962936",
+      "role": "member",
+      "id": 4
+    },
+    {
+      "name": "ali ",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/542px-Unknown_person.jpg",
+      "age": "30",
+      "gender": "Male",
+      "userName": "ali-ali",
+      "password": "123456",
+      "email": "ali-ali@gmail.com",
+      "phone": "+01012998032",
+      "role": "member",
+      "id": 5
+    }
+  ],
+  "logIn": {
+    "userName": "Kareemfayez",
+    "role": "Admin",
+    "sign": "Sign Out"
+  }
+}
